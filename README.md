@@ -12,6 +12,11 @@ A dynamic, interactive, and highly optimized 3D model viewer. This project is bu
 * **🛠️ Easy Integration:** Clean and modular code structure, making it simple to swap models with zero hassle.
 
 ---
+# 🧊 Universal 3D Model Viewer
+<div align="center">
+  <img src="assets/ss.png" alt="Universal 3D Model Viewer Screenshot" width="700" />
+</div>
+---
 
 ## 📂 How to Add Your Own Models
 
