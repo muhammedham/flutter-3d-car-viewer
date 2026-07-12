@@ -1,4 +1,2 @@
-windows/** linguist-generated=true
-linux/** linguist-generated=true
-android/** linguist-generated=true
-ios/** linguist-generated=true
+* linguist-generated=true
+*.dart linguist-generated=false
